@@ -1,0 +1,93 @@
+@media (min-width: 300px) {
+  body {
+    background: rgb(57,115,169);
+    color: rgb(0,0,0);
+    padding: 8px;
+  }
+}
+
+#background {
+  height: 100vh;
+  width: 100%;
+  background: url("../../assets/img/Bgclr.jpg");
+}
+
+#jum {
+  text-align: center;
+  padding: 40px;
+}
+
+#jum .jumbotron {
+  background-color: rgba(255,255,255,0.2);
+  margin: 0 auto;
+}
+
+#jumm {
+  text-align: center;
+}
+
+#jumm .jumbotron {
+  background-color: rgba(255,255,255,0.1);
+  padding: 15px;
+}
+
+#Nome {
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+#mensagem {
+  padding-left: 5px;
+}
+
+#hor_line {
+  background: rgba(26,54,109,0.34);
+  width: 335px;
+  height: 2px;
+}
+
+#icon {
+}
+
+textarea.form-control {
+}
+
+#Heading {
+  padding-top: 30px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+#Txt {
+  padding: 89px;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  padding: 10px;
+}
+
+#Btn {
+  padding-left: 130px;
+  padding-top: 10px;
+}
+
+#Btn-1 {
+  padding-left: 75px;
+}
+
+.input-group {
+  padding-top: 10px;
+}
+
+#background {
+}
+
+#Estado {
+  padding-left: 5px;
+}
+
+#Nome-1 {
+  padding-top: 5px;
+  padding-left: 214px;
+}
+
